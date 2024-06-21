@@ -1,0 +1,6 @@
+id: my-cool-dojo
+
+modules:
+  - id: first
+    challenges:
+      - id: vuln
